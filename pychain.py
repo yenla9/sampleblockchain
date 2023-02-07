@@ -168,7 +168,6 @@ pychain = setup()
 # @TODO:
 # Delete the `input_data` variable from the Streamlit interface.
 
-
 # @TODO:
 # Add an input area where you can get a value for `sender` from the user.
 sender = st.text_input("Sender")
