@@ -1,7 +1,7 @@
 # Homework #18: PyChain Ledger
 ### By: Yen
 
-PyChain.py is a basic blockchain ledger. It tracks transactions from sender to receiver, amount and timestamp. 
+PyChain.py is a basic blockchain ledger. It tracks transaction from sender to receiver, amount and timestamp. 
 Below is the example of the blockchain:
 
 First Block
